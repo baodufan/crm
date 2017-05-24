@@ -6,4 +6,7 @@ public class Customer {
 	String name;
 	String phone;
 	
+	public static void main(String[] args) {
+		System.out.println("id"+"name");
+	}
 }
